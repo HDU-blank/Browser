@@ -1,0 +1,37 @@
+*{margin:0;
+  padding: 0;
+}
+body{
+  padding-top: 50px;
+  }
+  .carousel-inner p{ 
+    font-size: 20px;
+  }
+  .carousel {
+      height: 500px;
+  }
+  .carousel .item {
+      height: 500px;
+  }
+  .carousel .item img {
+      width: 100%;
+  }
+  .btn-carousel{
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .head-second{
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .col-md-4{
+    text-align: center;
+  }
+  .mid{
+    margin-top: 150px;
+  }
+  .summary{
+    margin-top: 10px;
+    padding-bottom:40px;
+  }
+  
